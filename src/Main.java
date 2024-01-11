@@ -5,6 +5,9 @@ public class Main {
     static  void deposit(){
 
     }
+    static void withdraw(){
+
+    }
     public static void main(String[] args) {
 
 
