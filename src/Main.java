@@ -3,7 +3,7 @@ public class Main {
 
     }
     static  void deposit(){
-        
+
     }
     public static void main(String[] args) {
 
